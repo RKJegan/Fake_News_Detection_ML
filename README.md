@@ -263,4 +263,10 @@ Prediction:
 
 # Author
 
-Developed as a Machine Learning and Natural Language Processing project using Python, Scikit-learn, and Streamlit.
+Jegan R K B.Tech ( AI & DS ) Student
+
+---
+
+# Note
+
+The project uses the ISOT Fake News Dataset, which contains 44,919 fake and real news articles collected primarily during 2016–2017. A substantial portion of the articles, particularly the Reuters news articles, are from the August–December 2017 period.
