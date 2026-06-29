@@ -31,7 +31,7 @@ The dataset consists of two CSV files:
 ## 📁 Project Structure
 
 ```text
-Fake_news/
+Fake_News_Detection_ML/
 │
 ├── app.py                     
 ├── README.md
