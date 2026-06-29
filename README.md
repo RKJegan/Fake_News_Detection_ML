@@ -33,7 +33,7 @@ The dataset consists of two CSV files:
 ```text
 Fake_news/
 │
-├── app.py                     # Streamlit application
+├── app.py                     
 ├── README.md
 ├── requirements.txt
 │
@@ -45,7 +45,7 @@ Fake_news/
 │   ├── best_model.pkl
 │   └── tfidf_vectorizer.pkl
 │
-├── results/
+├── models_result/
 │   ├── evaluation_results.csv
 │   ├── classification_report.txt
 │   └── confusion_matrix.txt
