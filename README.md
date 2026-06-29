@@ -4,7 +4,7 @@
 
 This project aims to detect whether a news article is **Fake** or **True** using **Natural Language Processing (NLP)** and **Machine Learning** techniques.
 
-The model is trained on news articles published between **August 2017 and December 2017**. The project performs text preprocessing, feature extraction using TF-IDF, trains multiple machine learning models, evaluates their performance, selects the best model based on evaluation metrics, and provides predictions through a Streamlit web application.
+The model is trained on news articles ISOT Fake News Dataset, which contains 44,919 fake and real news articles collected primarily during 2016–2017. A substantial portion of the articles, particularly the Reuters news articles, are from the August–December 2017 period.
 
 ---
 
@@ -263,10 +263,5 @@ Prediction:
 
 # Author
 
-Jegan R K B.Tech ( AI & DS ) Student
-
----
-
-# Note
-
-The project uses the ISOT Fake News Dataset, which contains 44,919 fake and real news articles collected primarily during 2016–2017. A substantial portion of the articles, particularly the Reuters news articles, are from the August–December 2017 period.
+Jegan R K 
+B.Tech ( AI & DS ) Student
