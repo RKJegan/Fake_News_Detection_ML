@@ -21,8 +21,9 @@ st.set_page_config(
 )
 
 st.title("Fake News Detection")
+st.write("Enter Full Article About more than 500 words  **(Article between Aug - Dec 2017)")
 st.write("Enter the news article to predict if it's fake or true:")
-st.write("Enter Full Article About more than 500 words")
+
 
 news = st.text_area("News Article", height = 250)
 
